@@ -20,11 +20,11 @@ Most of my projects revolve around **Web Development & Backend Engineering**, bu
 
 ---
 
-### 📊 GitHub Stats *(Just started out my open source journey)*  
+### 📊 GitHub Stats
 
-![Ei's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Ei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ei-Sandi&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Sandi&layout=compact&theme=tokyonight)  
 
 ---
 
