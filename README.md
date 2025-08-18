@@ -1,13 +1,33 @@
-### Hi there, I'm Ei Sandi Aung! 👋
-#### About Me
-I'm a passionate and dedicated Computer Science student at Coventry University. My academic journey and hands-on experience have equipped me with a solid foundation in various programming languages and technologies. I thrive in team environments and am eager to apply my skills in real-world settings through internships and collaborative projects.
+# Hi there 👋, I'm Ei Sandi  
 
-📍 Location: Coventry, UK
+🚀 Final-year **Computer Science student** passionate about building things, breaking things (then fixing them again 🛠️), and learning along the way.  
 
-📧 Email: eisandiaung.esa@gmail.com
+Most of my projects revolve around **Web Development & Backend Engineering**, but I’m always curious to explore new ideas—whether it’s experimenting with ML, diving into cloud tech, or optimizing systems for scale.  
 
-🔗 LinkedIn: linkedin.com/in/ei-sandi-aung-8a86aa2a2
+---
 
-I am confident in developing applications using Python and C++, with a strong focus on data science utilizing Python libraries such as Pandas, NumPy, and Matplotlib. My experience includes designing and implementing databases with SQLite, ensuring robust data storage and management solutions. I am eager to contribute to real-world projects where I can apply and further enhance my technical skills. By collaborating on meaningful projects, I aim to leverage my knowledge in software development and data science to solve complex problems and deliver impactful results.
+### 🌟 What I'm Up To  
+- 🌱 Currently learning **ML, AWS, and scalable backend systems**  
+- 🤝 Actively looking to **collaborate on open-source projects, hackathons, or fun side quests**
+- 💬 Comfortable coding in **Python 🐍** and **Java ☕**, but I love exploring new tools & frameworks  
 
+---
 
+### 🔧 Tech I Play With  
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** Python (Flask), Java, SQL  
+**DevOps & Cloud:** Git, AWS, CI/CD, IaC  
+
+---
+
+### 📊 GitHub Stats *(Just started out my open source journey)*  
+
+![Ei's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+
+---
+
+### 📫 Let’s Connect  
+📍 Based in **Coventry, UK**  
+📧 Reach me at: [eisandiaung.esa@gmail.com](mailto:eisandiaung.esa@gmail.com)  
