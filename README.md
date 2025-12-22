@@ -20,13 +20,15 @@ I love tackling problems at the **intersection of AI, robotics, cloud infrastruc
 
 ---
 
-## 📌 Skills & Technologies
+## 💡 Let’s Collaborate
 
-**Languages:** Python · Java · TypeScript · JavaScript · SQL  
-**Backend & APIs:** Flask · Node.js · REST · Serverless  
-**Cloud & DevOps:** AWS · CI/CD · Git · Containers  
-**Web3 / Zero Knowledge:** ZKP concepts · Midnight Network dev  
-**General:** Data structures, algorithms, systems thinking
+I’m actively looking for:
+- 🚀 Open source collaborations  
+- 🤝 Hackathons or team projects  
+- ☁️ Internships or part-time roles  
+- 🔍 Real-world technical challenges
+
+If it’s ambitious, meaningful, and fun — **I want in.**
 
 ---
 
@@ -38,21 +40,29 @@ When I'm not debugging:
 * 🍿 **Movies & Series:** I'm a big Marvel fan. **Iron Man** is my favorite.
 
 ---
+### 🛠️ The Stack
 
-## 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ei-Sandi&show_icons=true&theme=radical&hide_border=true" height="150" alt="Ei Sandi's Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Sandi&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" /> </div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
 
 ---
 
-## 💡 Let’s Collaborate
-
-I’m actively looking for:
-- 🚀 Open source collaborations  
-- 🤝 Hackathons or team projects  
-- ☁️ Internships or part-time roles  
-- 🔍 Real-world technical challenges
-
-If it’s ambitious, meaningful, and fun — **I want in.**
+## 📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ei-Sandi&show_icons=true&theme=radical&hide_border=true" height="150" alt="Ei Sandi's Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Sandi&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" /> </div>
 
 ---
 
