@@ -4,10 +4,6 @@
   <p>📍 Based in Coventry, UK</p>
 </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ei-Sandi&show_icons=true&theme=radical&hide_border=true" height="150" alt="Ei Sandi's Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Sandi&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" /> </div>
-
----
-
 ## About Me
 
 I’m a **final-year Computer Science student (Class of 2026)** driven by curiosity and the joy of building products that matter.  
@@ -43,6 +39,11 @@ When I'm not debugging:
 
 ---
 
+## 📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ei-Sandi&show_icons=true&theme=radical&hide_border=true" height="150" alt="Ei Sandi's Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Sandi&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" /> </div>
+
+---
+
 ## 💡 Let’s Collaborate
 
 I’m actively looking for:
@@ -64,3 +65,4 @@ If it’s ambitious, meaningful, and fun — **I want in.**
 ---
 
 Thanks for visiting — let’s **build, learn, and ship** something awesome 🚀
+
