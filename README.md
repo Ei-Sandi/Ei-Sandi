@@ -70,8 +70,7 @@ When I'm not debugging:
 
 📧 **Email:** eisandiaung.esa@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ei-sandi-aung-8a86aa2a2  
-🌐 **Portfolio:** https://ei-sandi.github.io/about-me
-
+🌐 **Portfolio:** https://ei-sandi.github.io/
 ---
 
 Thanks for visiting — let’s **build, learn, and ship** something awesome 🚀
