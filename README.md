@@ -11,7 +11,7 @@ I love tackling problems at the **intersection of AI, robotics, cloud infrastruc
 
 ---
 
-## 🧠 What I’m Passionate About
+## What I’m Passionate About
 
 - 🤖 **AI & Robotics** — Building systems that interpret real world data and act intelligently  
 - ☁️ **Cloud & Backend** — Designing scalable APIs, resilient architectures, and solid CI/CD  
@@ -20,7 +20,7 @@ I love tackling problems at the **intersection of AI, robotics, cloud infrastruc
 
 ---
 
-## 💡 Let’s Collaborate
+## Let’s Collaborate
 
 I’m actively looking for:
 - 🚀 Open source collaborations  
@@ -32,7 +32,7 @@ If it’s ambitious, meaningful, and fun — **I want in.**
 
 ---
 
-### ⚡ Offline Mode
+### Offline Mode
 
 When I'm not debugging:
 
@@ -40,7 +40,7 @@ When I'm not debugging:
 * 🍿 **Movies & Series:** I'm a big Marvel fan. **Iron Man** is my favorite.
 
 ---
-### 🛠️ The Stack
+### The Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -61,16 +61,15 @@ When I'm not debugging:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ei-Sandi&show_icons=true&theme=radical&hide_border=true" height="150" alt="Ei Sandi's Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Sandi&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" /> </div>
-
 ---
 
 ## 📬 Connect With Me
 
-📧 **Email:** eisandiaung.esa@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ei-sandi-aung-8a86aa2a2  
-🌐 **Portfolio:** https://ei-sandi.github.io/
+- eisandiaung.esa@gmail.com  
+- https://www.linkedin.com/in/ei-sandi-aung-8a86aa2a2
+- https://x.com/ei_sandi25
 ---
 
 Thanks for visiting — let’s **build, learn, and ship** something awesome 🚀
