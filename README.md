@@ -9,8 +9,6 @@
 
 I’m a recent Computer Science Graduate building my career around **Distributed Systems and Cloud Infrastructure Engineering**. 
 
-My journey into tech started a bit later than some. I pivoted into Computer Science from Medicine, writing my first lines of code in 2023. I didn't have the privilege of growing up programming in high school, which means I've spent my entire tech journey hustling to catch up, adapting quickly, and absorbing everything I can. 
-
 ---
 
 ## Current Focus & Interests
